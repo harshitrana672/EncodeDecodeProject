@@ -1,0 +1,2 @@
+# EncodeDecodeProject
+To represent a unicode string as a string of bytes is known as encoding. To convert a string of bytes to a unicode string is known as decoding. You typically encode a unicode string whenever you need to use it for IO, for instance transfer it over the network, or save it to a disk file. You typically decode a string of bytes whenever you receive string data from the network or from a disk file.
